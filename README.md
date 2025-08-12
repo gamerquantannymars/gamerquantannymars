@@ -1,15 +1,16 @@
-# Giới thiệu
-Xin chào! Tôi là gamerquantannymars, một lập trình viên yêu thích game và công nghệ.
+# gamerquantannymars
 
-# Kỹ năng
-- Python
-- JavaScript
-- Unity
-- HTML/CSS
+**Theme:** web-development
 
-# Dự án
-- [Game A](link-to-game-a) - Một game thú vị về...
-- [Dự án B](link-to-project-b) - Ứng dụng giúp...
+## About
+Focused on web-development.
 
-# Liên hệ
-Bạn có thể liên hệ với tôi qua email: gamerquantannymars@example.com hoặc theo dõi tôi trên Twitter: [@gamerquantannymars](https://twitter.com/gamerquantannymars).
+## Tech
+- Python · Git · CI/CD
+- - web
+- frontend
+- backend
+- react
+
+## Links
+- Profile: https://github.com/gamerquantannymars
